@@ -1,0 +1,17 @@
+body {
+  background-color: plum;
+}
+
+.heading1 {
+  background-color: white;
+  border: solid black 2px;
+  padding: 5px;
+  width: 50%;
+}
+
+.paragraph1 {
+  background-color: white;
+  border: solid black 2px;
+  padding: 5px;
+  width: 50%;
+}
